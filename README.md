@@ -1,7 +1,7 @@
 # Coleta-dados
 Sql, NoSQL
 
-# Projeto_pesquisa
+Projeto_pesquisa
 Projeto de coleta de dados e consultas no MySQL.
 
 Este se refere a um instituto de pesquisa que realizou no ano de 2020 uma pesquisa que tinha como objetivo coletar
